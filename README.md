@@ -1,10 +1,7 @@
-### Hi there 👋
-
-
 ### Hi there, I'm Taro! 👋
 
 
-## I'm a Developer and constant Learner!
+## I'm a Developer and AWS certified Solution Architect!
 
 - 🔭 I’m currently working on AWS!
 - 🌱 I’m currently learning everything 🤣
