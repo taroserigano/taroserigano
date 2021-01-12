@@ -53,11 +53,11 @@
 
 [website]: https://taroserigano.com
 [twitter]: https://twitter.com/IviTaro
-[youtube]: 
+[youtube]: https://taroserigano.com
 [instagram]: https://www.instagram.com/_ivi.taro_/
 [linkedin]: https://www.linkedin.com/in/taro-serigano-47b15430/
-[webdevplaylist]: ""
-[jsplaylist]: ""
-[cssplaylist]: ""
-[reactplaylist]: ""
+[webdevplaylist]: https://taroserigano.com
+[jsplaylist]: https://taroserigano.com
+[cssplaylist]: https://taroserigano.com
+[reactplaylist]: https://taroserigano.com
 
