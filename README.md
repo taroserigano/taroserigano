@@ -51,13 +51,13 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=taroserigano&show_icons=true&hide_border=true" />
 
 
-[website]: https://codeSTACKr.com
+[website]: https://taroserigano.com
 [twitter]: https://twitter.com/IviTaro
-[youtube]: https://www.youtube.com/channel/UCja_xxZbT3tYFtfGx7pEHpg
+[youtube]: 
 [instagram]: https://www.instagram.com/_ivi.taro_/
 [linkedin]: https://www.linkedin.com/in/taro-serigano-47b15430/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]: ""
+[jsplaylist]: ""
+[cssplaylist]: ""
+[reactplaylist]: ""
 
