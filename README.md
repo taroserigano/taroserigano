@@ -1,4 +1,4 @@
-<p align="center" height="100" > <img src="https://github.com/taroserigano/taroserigano/blob/master/mern.jpg"> </p>
+<p align="center" > <img src="https://github.com/taroserigano/taroserigano/blob/master/mern.jpg"> </p>
 
 
 
