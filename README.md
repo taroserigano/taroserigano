@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love to watch Youtube and play guitar
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
 
 ### Connect with me:
 
@@ -57,10 +57,6 @@
 ---
 
 
-
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=taroserigano&show_icons=true&hide_border=true" />
 
 
 [website]: https://taroserigano.com
