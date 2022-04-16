@@ -1,4 +1,4 @@
-![alt text](https://github.com/taroserigano/taroserigano/blob/master/mern.jpg)
+<p align="center" height="100" > <img src="https://github.com/taroserigano/taroserigano/blob/master/mern.jpg"> </p>
 
 
 
