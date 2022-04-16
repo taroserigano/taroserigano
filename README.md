@@ -1,3 +1,7 @@
+![alt text](https://github.com/taroserigano/taroserigano/blob/master/mern.jpg)
+
+
+
 <h1 align="center">
     Hi 👋, I'm Taro Serigano
   <br />
