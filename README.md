@@ -1,5 +1,3 @@
-<p align="center" > <img src="https://github.com/taroserigano/taroserigano/blob/master/mern.jpg"> </p>
-
 
 
 <h1 align="center">
