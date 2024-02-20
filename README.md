@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on Web & Software Development!
 - 🌱 I’m currently learning everything! 🤓
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Learning AI ML 
 - ⚡ Fun fact: I love to watch Youtube and play guitar
 
 ### Spotify Playing 🎧
@@ -62,7 +62,7 @@
 [website]: https://taroserigano.com
 [twitter]: https://twitter.com/IviTaro
 [youtube]: https://taroserigano.com
-[instagram]: https://www.instagram.com/_ivi.taro_/
+[instagram]: https://www.instagram.com
 [linkedin]: https://www.linkedin.com/in/taro-serigano-47b15430/
 [webdevplaylist]: https://taroserigano.com
 [jsplaylist]: https://taroserigano.com
