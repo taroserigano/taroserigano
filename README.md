@@ -10,7 +10,7 @@
 ## I'm a Software Developer and AWS certified Solution Architect!
 
 - 🔭 I’m currently working on Web & Software Development!
-- 🌱 I’m currently learning everything! 🤓
+- 🌱 I’m planning to learn AI! 🤓
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Learning AI ML 
 - ⚡ Fun fact: I love to watch Youtube and play guitar
