@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on Web & Software Development!
 - 🌱 I’m planning to learn AI! 🤓
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Learning AI ML 
+- 🥅 2025 Goals: AI Training  
 - ⚡ Fun fact: I love to watch Youtube and play guitar
 
 ### Spotify Playing 🎧
