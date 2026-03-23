@@ -7,9 +7,9 @@
 </h1>
 
 
-## I'm a Software Developer and AWS certified Solution Architect!
+## I'm a Lead AI Engineer and AWS certified Solution Architect!
 
-- 🔭 I’m currently working on Web & Software Development!
+- 🔭 I’m currently working on AI Technology!
 - 🌱 Enjoying Life and Coding! 🤓
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: AI Training  
