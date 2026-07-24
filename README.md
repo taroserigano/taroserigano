@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on AI Technology!
 - 🌱 Enjoying Life and Coding! 🤓
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: AI Training  
+- 🥅 2026 Goals: More AI Learning, Hermes Agent  
 - ⚡ Fun fact: I love to watch Youtube and play guitar
 
 ### Spotify Playing 🎧
