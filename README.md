@@ -1,71 +1,88 @@
+<div align="center">
 
+<h1>Hi, I'm Taro Serigano 👋</h1>
 
-<h1 align="center">
-    Hi 👋, I'm Taro Serigano
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Lead+AI+Engineer;LLM+%2B+Agentic+System+Design;RAG+%C2%B7+LangChain+%C2%B7+LlamaIndex;AWS+Certified+Solutions+Architect" alt="Typing SVG" />
+</a>
+
+</div>
+
+## About Me
+
+I'm a **Lead AI Engineer** and **AWS Certified Solutions Architect** building production LLM applications — retrieval-augmented generation, multi-agent orchestration, and fine-tuned models — end to end, from the model layer to the shipped product.
+
+- 🤖 Currently building **agentic RAG systems** — LangChain / LlamaIndex agents grounded in graph + vector retrieval (Neo4j, ChromaDB)
+- 🧠 Fine-tuning open + closed models (**QLoRA on Ollama**, **OpenAI GPT fine-tuning**) for domain-specific compliance and analysis tasks
+- 🏗️ Designing full-stack AI products — FastAPI/Python backends, React/TypeScript frontends, deployed on **AWS**
+- 🔭 2026 goals: deeper multi-agent orchestration, shipping **Hermes Agent**
+- ⚡ Fun fact: I love watching YouTube and playing guitar between training runs
+
+<br />
+
+## AI / ML Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LlamaIndex-2C2C2C?style=for-the-badge" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-EF4444?style=for-the-badge" alt="Agentic AI" />
   <br />
+  <img src="https://img.shields.io/badge/XGBoost-EB0000?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/QLoRA%20Fine--Tuning-14B8A6?style=for-the-badge" alt="QLoRA" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/ChromaDB-3ECF8E?style=for-the-badge" alt="ChromaDB" />
+</p>
 
-</h1>
+## Full-Stack & Cloud
 
-
-## I'm a Lead AI Engineer and AWS certified Solution Architect!
-
-- 🔭 I’m currently working on AI Technology!
-- 🌱 Enjoying Life and Coding! 🤓
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2026 Goals: More AI Learning, Hermes Agent  
-- ⚡ Fun fact: I love to watch Youtube and play guitar
-
-### Spotify Playing 🎧
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,typescript,javascript,react,aws,docker,postgres,mongodb,git,github&theme=dark" alt="Skills" />
+</p>
 
 <br />
 
-## Languages and Tools:
+## 🚀 Featured Projects
 
-<h3 align="left">Frontend Technologies</h3>
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][reactplaylist]
-
-<br/>
-
-<h3 align="left">Backend Technologies</h3>
-
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+| Project | What it does |
+|---|---|
+| [**MAG7 SEC Filings Analyzer**](https://github.com/taroserigano/MAG-7-SEC-Filing-Analyzer-RAG-Agneitc-AI--FastAPI-App____) | Agentic RAG over SEC filings for the Magnificent 7 — FastAPI backend, multi-agent analysis |
+| [**Agentic AI Travel Advisor**](https://github.com/taroserigano/Agentic_AI_Travel_Advisor_Multi_Agents_Plumini_AWS) | Multi-agent travel planning system deployed on AWS |
+| [**Policy Guardian**](https://github.com/taroserigano/Policy-Guardian-RAG-LLM-App_) | RAG-powered LLM app for policy compliance Q&A |
+| [**RAG Multi-Agent React App**](https://github.com/taroserigano/RAG-Multi-Agents-AI-React-App_-) | Multi-agent RAG pipeline surfaced through a React front end |
+| [**GPT Compliance Fine-Tuning**](https://github.com/taroserigano/OPEN-AI-GPT-FINE_TUNING__Compliance_Model_2.1.2026---___) | Fine-tuned OpenAI GPT model for compliance-domain analysis |
+| [**Ollama QLoRA Fine-Tuning**](https://github.com/taroserigano/FINE-TUNING-Ollama-QLora______) | Local fine-tuning of open-weight models with QLoRA |
 
 <br />
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=taroserigano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taroserigano&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taroserigano&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
 <br />
 
----
+## Connect with me
 
+<p>
+  <a href="https://www.linkedin.com/in/taro-serigano-47b15430/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.taroserigano.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+</p>
 
-
-
-[website]: https://taroserigano.com
-[twitter]: https://twitter.com/IviTaro
-[youtube]: https://taroserigano.com
-[instagram]: https://www.instagram.com
-[linkedin]: https://www.linkedin.com/in/taro-serigano-47b15430/
-[webdevplaylist]: https://taroserigano.com
-[jsplaylist]: https://taroserigano.com
-[cssplaylist]: https://taroserigano.com
-[reactplaylist]: https://taroserigano.com
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=taroserigano&color=8B5CF6&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
