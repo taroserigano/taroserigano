@@ -3,7 +3,7 @@
 <h1>Hi, I'm Taro Serigano 👋</h1>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Lead+AI+Engineer;LLM+%2B+Agentic+System+Design;RAG+%C2%B7+LangChain+%C2%B7+LlamaIndex;AWS+Certified+Solutions+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Senior+AI+Engineer;LLM+%2B+Agentic+System+Design;RAG+%C2%B7+LangChain+%C2%B7+LlamaIndex;AWS+Certified+Solutions+Architect" alt="Typing SVG" />
 </a>
 
 </div>
