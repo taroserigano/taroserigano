@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a **Lead AI Engineer** and **AWS Certified Solutions Architect** building production LLM applications — retrieval-augmented generation, multi-agent orchestration, and fine-tuned models — end to end, from the model layer to the shipped product.
+I'm a **Senior AI Engineer** and **AWS Certified Solutions Architect** building production LLM applications — retrieval-augmented generation, multi-agent orchestration, and fine-tuned models — end to end, from the model layer to the shipped product.
 
 - 🤖 Currently building **agentic RAG systems** — LangChain / LlamaIndex agents grounded in graph + vector retrieval (Neo4j, ChromaDB)
 - 🧠 Fine-tuning open + closed models (**QLoRA on Ollama**, **OpenAI GPT fine-tuning**) for domain-specific compliance and analysis tasks
