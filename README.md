@@ -59,18 +59,6 @@ I'm a **Senior AI Engineer** and **AWS Certified Solutions Architect** building 
 
 <br />
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=taroserigano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taroserigano&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taroserigano&theme=tokyonight&hide_border=true&dates=false" alt="GitHub Streak" />
-</div>
-
-<br />
 
 ## Connect with me
 
